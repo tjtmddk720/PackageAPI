@@ -16,3 +16,4 @@
 
 ### 3.   API 명세서
 ![image](https://github.com/tjtmddk720/PackageAPI/assets/83910139/9bd2e9ef-5a46-433f-98e6-1a78b7eb15af)
+https://thrilling-cone-4b5.notion.site/39cdb49248784d329bd4cbefa6996ada?v=9a628d50ba2e41438b19841d70de818e
