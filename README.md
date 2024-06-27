@@ -1,7 +1,7 @@
 # PackageAPI
 
 ## 1. 프로젝트소개
-### PackageAPI (2024.06.25 ~ 2024.06. 26)
+### PackageAPI (2024. 06. 25 ~ 2024. 06. 26)
 <p text-align='center'>해당 프로젝트는 물류 업무 중 입출고 되는 패키지(package)에 대한 CRUD API 서버를 구성한 프로젝트입니다. <br/>
 </p>
 
