@@ -8,9 +8,9 @@
 ## 2. 개발환경
 -   java 17
 -   IDE : Intellij
--   Framework: Springboot(3.2.7)
--   Database: H2
--   ORM: JPA
+-   Framework : Springboot(3.2.7)
+-   Database : H2
+-   ORM : JPA
 
 ## 3.  구현 기능
 - 패키지 등록
