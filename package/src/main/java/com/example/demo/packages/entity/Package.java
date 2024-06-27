@@ -15,7 +15,9 @@ import java.util.List;
 public class Package {
     @Id
     private long id;
+    
     private String trackingNo;
+    
     @OneToMany(mappedBy = "aPackage", cascade = CascadeType.REMOVE)
     List<Image> images = new ArrayList<>();
 }
